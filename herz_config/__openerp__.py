@@ -17,7 +17,7 @@
 ##############################################################################
 
 {
-    'name': 'cu_herz',
+    'name': 'herz_config',
     'summary': """FCOM Customer herzbewegt Modifications""",
     'description': """
 FCOM Customer Modifications - Template

@@ -1,19 +1,19 @@
 @font-face {
   font-family: 'muliBold';
-  src: url("/cu_herz/static/src/css/fonts/muli-bold-webfont.eot");
-  src: url("/cu_herz/static/src/css/fonts/muli-bold-webfont.eot?#iefix") format("embedded-opentype"), url("/cu_herz/static/src/css/fonts/muli-bold-webfont.woff") format("woff"), url("/cu_herz/static/src/css/fonts/muli-bold-webfont.ttf") format("truetype"), url("/cu_herz/static/src/css/fonts/muli-bold-webfont.svg#muli_bold") format("svg");
+  src: url("/herz_config/static/src/css/fonts/muli-bold-webfont.eot");
+  src: url("/herz_config/static/src/css/fonts/muli-bold-webfont.eot?#iefix") format("embedded-opentype"), url("/herz_config/static/src/css/fonts/muli-bold-webfont.woff") format("woff"), url("/herz_config/static/src/css/fonts/muli-bold-webfont.ttf") format("truetype"), url("/herz_config/static/src/css/fonts/muli-bold-webfont.svg#muli_bold") format("svg");
   font-weight: normal;
   font-style: normal; }
 @font-face {
   font-family: 'muliRegular';
-  src: url("/cu_herz/static/src/css/fonts/muli-regular-webfont.eot");
-  src: url("/cu_herz/static/src/css/fonts/muli-regular-webfont.eot?#iefix") format("embedded-opentype"), url("/cu_herz/static/src/css/fonts/muli-regular-webfont.woff") format("woff"), url("/cu_herz/static/src/css/fonts/muli-regular-webfont.ttf") format("truetype"), url("/cu_herz/static/src/css/fonts/muli-regular-webfont.svg#muli_regular") format("svg");
+  src: url("/herz_config/static/src/css/fonts/muli-regular-webfont.eot");
+  src: url("/herz_config/static/src/css/fonts/muli-regular-webfont.eot?#iefix") format("embedded-opentype"), url("/herz_config/static/src/css/fonts/muli-regular-webfont.woff") format("woff"), url("/herz_config/static/src/css/fonts/muli-regular-webfont.ttf") format("truetype"), url("/herz_config/static/src/css/fonts/muli-regular-webfont.svg#muli_regular") format("svg");
   font-weight: normal;
   font-style: normal; }
 @font-face {
   font-family: 'muliItalic';
-  src: url("/cu_herz/static/src/css/fonts/muli-italic-webfont.eot");
-  src: url("/cu_herz/static/src/css/fonts/muli-italic-webfont.eot?#iefix") format("embedded-opentype"), url("/cu_herz/static/src/css/fonts/muli-italic-webfont.woff") format("woff"), url("/cu_herz/static/src/css/fonts/muli-italic-webfont.ttf") format("truetype"), url("/cu_herz/static/src/css/fonts/muli-italic-webfont.svg#muli_italic") format("svg");
+  src: url("/herz_config/static/src/css/fonts/muli-italic-webfont.eot");
+  src: url("/herz_config/static/src/css/fonts/muli-italic-webfont.eot?#iefix") format("embedded-opentype"), url("/herz_config/static/src/css/fonts/muli-italic-webfont.woff") format("woff"), url("/herz_config/static/src/css/fonts/muli-italic-webfont.ttf") format("truetype"), url("/herz_config/static/src/css/fonts/muli-italic-webfont.svg#muli_italic") format("svg");
   font-weight: normal;
   font-style: normal; }
 /* DEFAULTS available in all webpages */
@@ -278,65 +278,65 @@ hr {
   background: radial-gradient(ellipse at center, rgba(255, 255, 255, 0.85) 0.14, rgba(0, 142, 178, 0.85) 1); }
 
 .website_pattern_cartographer {
-  background: url(/cu_herz/static/src/img/patterns/cartographer.png) repeat;
+  background: url(/herz_config/static/src/img/patterns/cartographer.png) repeat;
   color: white; }
 
 .website_pattern_concrete_wall {
-  background: url(/cu_herz/static/src/img/patterns/concrete_wall.png) repeat;
+  background: url(/herz_config/static/src/img/patterns/concrete_wall.png) repeat;
   color: white; }
 
 .website_pattern_congruent_outline {
-  background: url(/cu_herz/static/src/img/patterns/congruent_outline.png) repeat;
+  background: url(/herz_config/static/src/img/patterns/congruent_outline.png) repeat;
   color: white; }
 
 .website_pattern_debut_dark {
-  background: url(/cu_herz/static/src/img/patterns/debut_dark.png) repeat;
+  background: url(/herz_config/static/src/img/patterns/debut_dark.png) repeat;
   color: white; }
 
 .website_pattern_debut_light {
-  background: white url(/cu_herz/static/src/img/patterns/debut_light.png) repeat; }
+  background: white url(/herz_config/static/src/img/patterns/debut_light.png) repeat; }
 
 .website_pattern_escheresque {
-  background: url(/cu_herz/static/src/img/patterns/escheresque.png) repeat; }
+  background: url(/herz_config/static/src/img/patterns/escheresque.png) repeat; }
 
 .website_pattern_escheresque_ste {
-  background: url(/cu_herz/static/src/img/patterns/escheresque_ste.png) repeat;
+  background: url(/herz_config/static/src/img/patterns/escheresque_ste.png) repeat;
   color: white; }
 
 .website_pattern_footer_lodyas {
-  background: url(/cu_herz/static/src/img/patterns/footer_lodyas.png) repeat;
+  background: url(/herz_config/static/src/img/patterns/footer_lodyas.png) repeat;
   color: white; }
 
 .website_pattern_hexabump {
-  background: url(/cu_herz/static/src/img/patterns/hexabump.png) repeat;
+  background: url(/herz_config/static/src/img/patterns/hexabump.png) repeat;
   color: white; }
 
 .website_pattern_mooning {
-  background: url(/cu_herz/static/src/img/patterns/mooning.png) repeat; }
+  background: url(/herz_config/static/src/img/patterns/mooning.png) repeat; }
 
 .website_pattern_pinstriped_suit {
-  background: black url(/cu_herz/static/src/img/patterns/pinstriped_suit.png) repeat;
+  background: black url(/herz_config/static/src/img/patterns/pinstriped_suit.png) repeat;
   color: white; }
 
 .website_pattern_purty_wood {
-  background: url(/cu_herz/static/src/img/patterns/purty_wood.png) repeat; }
+  background: url(/herz_config/static/src/img/patterns/purty_wood.png) repeat; }
 
 .website_pattern_retina_wood {
-  background: url(/cu_herz/static/src/img/patterns/retina_wood.png) repeat; }
+  background: url(/herz_config/static/src/img/patterns/retina_wood.png) repeat; }
 
 .website_pattern_shattered {
-  background: url(/cu_herz/static/src/img/patterns/shattered.png) repeat; }
+  background: url(/herz_config/static/src/img/patterns/shattered.png) repeat; }
 
 .website_pattern_stardust {
-  background: black url(/cu_herz/static/src/img/patterns/stardust.png) repeat;
+  background: black url(/herz_config/static/src/img/patterns/stardust.png) repeat;
   color: white; }
 
 .website_pattern_tweed {
-  background: black url(/cu_herz/static/src/img/patterns/tweed.png) repeat;
+  background: black url(/herz_config/static/src/img/patterns/tweed.png) repeat;
   color: white; }
 
 .website_pattern_woven {
-  background: black url(/cu_herz/static/src/img/patterns/woven.png) repeat;
+  background: black url(/herz_config/static/src/img/patterns/woven.png) repeat;
   color: white; }
 
 .blog_title h1, .blog_title .h1 {
