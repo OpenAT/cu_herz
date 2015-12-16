@@ -125,6 +125,10 @@ header .nav {
 header a.navbar-brand img {
   max-height: 100px; }
 
+header .navbar .navbar-default .navbar-static-top {
+  padding-top: 5px;
+  padding-botton: 5px; }
+
 /* -- BODY -- */
 body {
   background-color: #ffffff; }
