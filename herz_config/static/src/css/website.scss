@@ -106,6 +106,9 @@ header .nav {
   border-radius: 5px;
 }
 */
+header a.navbar-brand img {
+  max-height: 100px;
+}
 /* -- BODY -- */
 body {
   background-color: $bgcolor;
